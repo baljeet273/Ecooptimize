@@ -1,0 +1,79 @@
+deforestation,soil_health,biodiversity,carbon_sequestration,region
+5,80,70,50,USA
+8,75,65,55,China
+3,85,75,45,India
+2,90,80,60,Germany
+6,70,60,40,Japan
+7,72,62,52,Brazil
+4,78,68,48,Canada
+3,82,71,53,Argentina
+6,79,63,44,Mexico
+5,76,67,47,France
+8,83,69,49,United Kingdom
+4,88,72,51,Italy
+7,81,66,54,Spain
+3,77,73,59,Australia
+2,84,61,46,South Korea
+6,89,64,57,Russia
+5,86,74,58,Indonesia
+8,71,58,41,South Africa
+4,74,59,42,Turkey
+7,69,55,43,Saudi Arabia
+3,73,57,56,Iran
+2,68,52,39,Argentina
+6,70,51,40,Chile
+5,72,53,45,Bolivia
+8,67,56,50,Peru
+4,71,54,41,Colombia
+7,75,55,52,Venezuela
+3,69,57,47,Ecuador
+2,74,58,46,Uruguay
+6,77,59,43,Paraguay
+5,80,60,44,Costa Rica
+8,76,61,45,Panama
+4,79,62,41,Nicaragua
+7,78,63,40,Honduras
+3,82,64,39,El Salvador
+2,84,65,38,Guatemala
+6,83,66,37,Belize
+5,81,67,36,Jamaica
+8,79,68,35,Haiti
+4,77,69,34,Dominican Republic
+7,75,70,33,Cuba
+3,73,71,32,Bahamas
+2,71,72,31,Trinidad and Tobago
+6,69,73,30,Guyana
+5,67,74,29,Suriname
+8,65,75,28,Guyane
+4,63,76,27,Brazil
+7,61,77,26,Colombia
+3,59,78,25,Venezuela
+2,57,79,24,Guyana
+6,55,80,23,Suriname
+5,53,81,22,French Guiana
+8,51,82,21,Ecuador
+4,49,83,20,Peru
+7,47,84,19,Bolivia
+3,45,85,18,Paraguay
+2,43,86,17,Chile
+6,41,87,16,Argentina
+5,39,88,15,Uruguay
+8,37,89,14,Brazil
+4,35,90,13,Colombia
+7,33,91,12,Venezuela
+3,31,92,11,Guyana
+2,29,93,10,Suriname
+6,27,94,9,Guyane
+5,25,95,8,Ecuador
+8,23,96,7,Peru
+4,21,97,6,Bolivia
+7,19,98,5,Paraguay
+3,17,99,4,Chile
+2,15,100,3,Argentina
+6,13,90,2,Uruguay
+5,11,80,1,Brazil
+8,9,70,2,Colombia
+4,7,60,3,Venezuela
+7,5,50,4,Guyana
+3,3,40,5,Suriname
+2,1,30,6,Guyane

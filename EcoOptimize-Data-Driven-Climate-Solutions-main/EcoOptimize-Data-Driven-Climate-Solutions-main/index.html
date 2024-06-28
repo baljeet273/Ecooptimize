@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sustainability Optimization</title>
+    <link href="{{url_for('static', filename='css/styles.css')}}" rel="stylesheet">
+</head>
+<body>
+    <h1>Sustainability Optimization</h1>
+    <form action="{{ url_for('predict') }}" method="post">
+        <div class="heading">
+            <label for="solar_capacity">Solar Capacity:</label>
+            <input type="number" id="solar_capacity" name="solar_capacity" required>
+        </div>
+
+        <div class="heading">
+            <label for="wind_capacity">Wind Capacity:</label>
+            <input type="number" id="wind_capacity" name="wind_capacity" required>
+        </div>
+
+        <div class="heading">
+            <label for="hydro_capacity">Hydro Capacity:</label>
+            <input type="number" id="hydro_capacity" name="hydro_capacity" required>
+        </div>
+
+        <div class="heading">
+            <label for="energy_consumption">Energy Consumption:</label>
+            <input type="number" id="energy_consumption" name="energy_consumption" required>
+        </div>
+
+        <div class="heading">
+            <label for="industrial_processes">Industrial Processes:</label>
+            <input type="number" id="industrial_processes" name="industrial_processes" required>
+        </div>
+
+        <div class="heading">
+            <label for="agriculture">Agriculture:</label>
+            <input type="number" id="agriculture" name="agriculture" required>
+        </div>
+
+        <div class="heading">
+            <label for="deforestation">Deforestation:</label>
+            <input type="number" id="deforestation" name="deforestation" required>
+        </div>
+
+        <div class="heading">
+            <label for="soil_health">Soil Health:</label>
+            <input type="number" id="soil_health" name="soil_health" required>
+        </div>
+
+        <div class="heading">
+            <label for="biodiversity">Biodiversity:</label>
+            <input type="number" id="biodiversity" name="biodiversity" required>
+        </div>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
